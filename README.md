@@ -6,7 +6,9 @@
 
 A powerful compilation of Windows system tools designed to streamline **performance**, debloat with **advanced tweaks**, clean up with **disk tools**, and configure **privacy settings**. Run it to maximize your system's potential on every install.
 
-*(<img width="1418" height="942" alt="apps" src="https://github.com/user-attachments/assets/4d6dfdc1-268a-4270-8435-635c93cb6e00" />)*
+*<img width="1418" height="942" alt="apps" src="https://github.com/user-attachments/assets/4d6dfdc1-268a-4270-8435-635c93cb6e00" /><img width="1419" height="945" alt="windowsupdate" src="https://github.com/user-attachments/assets/65c33248-b910-4b28-b1d7-1e3516f689eb" />
+<img width="1418" height="942" alt="services" src="https://github.com/user-attachments/assets/970d8495-3dbe-45d3-8b08-1eca879754fb" />
+*
 
 ---
 
