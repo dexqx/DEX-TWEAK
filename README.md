@@ -1,6 +1,6 @@
 # DEX Windows Tweak/Utility
 
-[![Latest Release](https://img.shields.io/github/v/release/dexqx/DEX-TWEAK?label=LATEST%20RELEASE&color=007ec6&style=for-the-badge)](https://github.com/dexqx/DEX-TWEAK/releases) ![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%7C%2011-4c4c4c?style=for-the-badge) [![Developer](https://img.shields.io/badge/DEVELOPER-DEXQX-5865F2?style=for-the-badge)](https://github.com/dexqx/DEX-TWEAK)
+[![Latest Release](https://img.shields.io/github/v/release/dexqx/DEX-TWEAK?label=LATEST%20RELEASE&color=007ec6&style=for-the-badge)](https://github.com/dexqx/DEX-TWEAK/releases) ![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%7C%2011-4c4c4c?style=for-the-badge) [![Developer](https://img.shields.io/badge/DEVELOPER-DEXQX-5865F2?style=for-the-badge)](https://github.com/dexqx/DEX-TWEAK) [![Discord](https://dcbadge.limes.pink/api/server/7jgD3gxvvM?theme=default-inverted&style=for-the-badge)](https://discord.gg/7jgD3gxvvM)
 
 🌍 **[EN English](#-english)** | **[🇹🇷 Türkçe](#-türkçe)**
 
