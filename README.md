@@ -12,13 +12,32 @@ A powerful compilation of Windows system tools designed to streamline **performa
 
 ---
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 **DEX TWEAK**, Windows işletim sisteminizin potansiyelini ortaya çıkarmak, donanım gecikmelerini en aza indirmek ve rekabetçi oyunlar için maksimum FPS dengesini sağlamak üzere tasarlanmış profesyonel bir optimizasyon süitidir.
 
 ### 🚀 Hızlı Kurulum (Tek Satır)
 
+### 🚀 Quick Install (One-Line Setup)
+
 PowerShell'i **Yönetici Olarak Çalıştırın** ve aşağıdaki kodu yapıştırıp Enter'a basın:
+
+Run PowerShell as **Administrator**, paste the code below, and hit Enter:
 
 ```powershell
 irm bit.ly/dex-tweak | iex
+
+
+# ⚡ DEX TWEAK — Ultimate System Optimization Module
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/dexqx/DEX-TWEAK?color=00E5FF&label=Release&style=for-the-badge)
+![Windows 11 & 10](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+🌍 **[🇬🇧 Click for English](#-english)** | **[🇹🇷 Türkçe için tıklayın](#-türkçe)**
+
+---
+
+## English
+
+**DEX TWEAK** is a professional system optimization suite designed to unlock your Windows operating system's hidden potential, minimize input lag, and ensure maximum FPS/performance balance. It frees up system resources by disabling unnecessary background services, preparing the ideal environment for competitive gaming.
