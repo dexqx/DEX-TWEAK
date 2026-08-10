@@ -6,9 +6,7 @@
 
 **DEX TWEAK**, Windows işletim sisteminizin gizli potansiyelini ortaya çıkarmak, donanım gecikmelerini (input lag) en aza indirmek ve maksimum FPS/performans dengesini sağlamak için geliştirilmiş profesyonel bir sistem optimizasyon süitidir.
 
-`*<img width="1418" height="942" alt="apps" src="https://github.com/user-attachments/assets/87737a33-26f3-4bcb-a918-b1769d8394a0" />*`<img width="1419" height="945" alt="windowsupdate" src="https://github.com/user-attachments/assets/8341278e-676f-42ef-81fd-7f4873765b0e" />
-<img width="1418" height="942" alt="services" src="https://github.com/user-attachments/assets/754f5626-4e45-4898-bdc9-a00ac7473a9d" />![Uploading windowsupdate.PNG…]()
-
+`*<img width="1418" height="942" alt="apps" src="https://github.com/user-attachments/assets/87737a33-26f3-4bcb-a918-b1769d8394a0" />*` <img width="1419" height="945" alt="windowsupdate" src="https://github.com/user-attachments/assets/8341278e-676f-42ef-81fd-7f4873765b0e" /> <img width="1418" height="942" alt="services" src="https://github.com/user-attachments/assets/754f5626-4e45-4898-bdc9-a00ac7473a9d"
 
 
 Gereksiz arka plan hizmetlerini kapatarak sistem kaynaklarınızı serbest bırakır ve rekabetçi oyunlar için ideal ortamı hazırlar.
