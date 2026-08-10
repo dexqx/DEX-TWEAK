@@ -17,7 +17,8 @@ Performansı artırmak, gelişmiş ayarlarla gereksiz bileşenlerden arındırma
 
 ### 🚀 Hızlı Kurulum (Tek Satır) / ### 🚀 Quick Install (One-Line Setup)
 
-PowerShell'i **Yönetici Olarak Çalıştırın** ve aşağıdaki kodu yapıştırıp Enter'a basın: 
+PowerShell'i **Yönetici Olarak Çalıştırın** ve aşağıdaki kodu yapıştırıp Enter'a basın:
+
 Run PowerShell as **Administrator**, paste the code below, and hit Enter:
 
 ```powershell
