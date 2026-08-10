@@ -15,9 +15,9 @@ A powerful compilation of Windows system tools designed to streamline **performa
 
 Performansı artırmak, gelişmiş ayarlarla gereksiz bileşenlerden arındırmak (debloat), disk araçlarıyla temizlik yapmak ve gizlilik ayarlarını yapılandırmak için tasarlanmış güçlü bir Windows sistem araçları derlemesi. Her kurulumda sisteminizin potansiyelini en üst düzeye çıkarmak için çalıştırın.
 
-### 🚀 Hızlı Kurulum (Tek Satır)
+### 🚀 Hızlı Kurulum (Tek Satır) / ### 🚀 Quick Install (One-Line Setup)
 
-PowerShell'i **Yönetici Olarak Çalıştırın** ve aşağıdaki kodu yapıştırıp Enter'a basın:
+PowerShell'i **Yönetici Olarak Çalıştırın** ve aşağıdaki kodu yapıştırıp Enter'a basın: / Run PowerShell as **Administrator**, paste the code below, and hit Enter:
 
 ```powershell
 irm bit.ly/dex-tweak | iex
